@@ -1,0 +1,5 @@
+my-mcp-server/
+├── README.md
+├── package.json
+├── mcp.config.json
+└── server.js
