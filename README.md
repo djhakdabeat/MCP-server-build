@@ -88,6 +88,6 @@ Run npm install
 
 Register it in Claude Desktop config
 
-Restart Claude Desktop
+* Restart Claude Desktop
 
 You now have a working MCP server Claude can call!
